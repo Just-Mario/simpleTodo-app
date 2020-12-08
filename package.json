@@ -1,0 +1,15 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Just a simple Todo List application.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Mario Nyangintaka",
+  "license": "ISC",
+  "homepage": "https://just-mario.github.io/simpleTodo-app",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
